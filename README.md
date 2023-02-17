@@ -16,4 +16,4 @@ Neural Network
 For each model, it splits the data into training and testing sets and evaluates the accuracy of the model using relevant metrics such as the R^2 score, Mean Squared Error, Mean Absolute Error, and accuracy.
 
 ## Conclusion
-Overall, the code provides an excellent example of how to perform data analysis and build machine learning models using Python libraries. It is a great resource for anyone interested in learning how to work with machine learning and perform data analysis.
+Overall, the code provides an excellent example of how to perform data analysis and build machine learning models using Python libraries.
