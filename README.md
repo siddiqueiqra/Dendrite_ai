@@ -9,10 +9,10 @@ Next, the code performs feature engineering, starting by encoding the categorica
 ## Machine Learning Models
 The code then proceeds to build four different models:
 
-Linear Regression
-Decision Tree Regressor
-Support Vector Regression
-Neural Network
+- Linear Regression
+- Decision Tree Regressor
+- Support Vector Regression
+- Neural Network
 For each model, it splits the data into training and testing sets and evaluates the accuracy of the model using relevant metrics such as the R^2 score, Mean Squared Error, Mean Absolute Error, and accuracy.
 
 ## Conclusion
